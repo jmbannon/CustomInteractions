@@ -1,0 +1,11 @@
+name: CustomInteractions
+main: net.projectzombie.custom_interactions.main.Main
+depend: [WorldEdit,WorldGuard,BlockBuffer]
+version: 1.0
+commands:
+  bp:
+    description: Nope.
+    usage: "WIP"
+  treesnow:
+    description: Nope.
+    usage: "WIP"
