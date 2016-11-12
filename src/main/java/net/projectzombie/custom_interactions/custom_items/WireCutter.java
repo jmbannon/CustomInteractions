@@ -67,8 +67,7 @@ public class WireCutter extends CustomItem implements InteractableItem
         opn.setOpen(true);
         doorState.setData(doorData);
         doorState.update();
-        clickedBlock.getWorld().spigot().playEffect(clickedBlock.getLocation(),
-                                                    Effect.DOOR_TOGGLE);
+        clickedBlock.getWorld().playEffect(clickedBlock.getLocation(), Effect.DOOR_TOGGLE, 0);
 
         Utilities.plugin.getServer().getScheduler().scheduleSyncDelayedTask(Utilities.plugin, new Runnable()
         {
@@ -78,8 +77,7 @@ public class WireCutter extends CustomItem implements InteractableItem
                 opn.setOpen(false);
                 doorState.setData(doorData);
                 doorState.update();
-                clickedBlock.getWorld().spigot().playEffect(clickedBlock.getLocation(),
-                                                            Effect.DOOR_TOGGLE);
+                clickedBlock.getWorld().playEffect(clickedBlock.getLocation(), Effect.DOOR_TOGGLE, 0);
             }
         }, 120);
     }
