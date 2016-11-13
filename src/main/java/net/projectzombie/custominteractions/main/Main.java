@@ -18,12 +18,12 @@
  *
  */
 
-package net.projectzombie.custom_interactions.main;
+package net.projectzombie.custominteractions.main;
 
-import net.projectzombie.custom_interactions.listeners.BlockListener;
-import net.projectzombie.custom_interactions.listeners.Utilities;
-import net.projectzombie.custom_interactions.listeners.ToolListener;
-import net.projectzombie.custom_interactions.temp.TreeSnow;
+import net.projectzombie.custominteractions.listeners.BlockListener;
+import net.projectzombie.custominteractions.listeners.Utilities;
+import net.projectzombie.custominteractions.listeners.ToolListener;
+import net.projectzombie.custominteractions.temp.TreeSnow;
 import org.bukkit.plugin.java.JavaPlugin;
 
 /**

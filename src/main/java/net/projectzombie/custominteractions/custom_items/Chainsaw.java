@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package net.projectzombie.custom_interactions.custom_items;
+package net.projectzombie.custominteractions.custom_items;
 
 import org.bukkit.Material;
 import org.bukkit.block.Block;

@@ -1,5 +1,5 @@
 name: CustomInteractions
-main: net.projectzombie.custom_interactions.main.Main
+main: net.projectzombie.custominteractions.main.Main
 depend: [WorldEdit,WorldGuard,BlockBuffer]
 version: 1.0
 commands:

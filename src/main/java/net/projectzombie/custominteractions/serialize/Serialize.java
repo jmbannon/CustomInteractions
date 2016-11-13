@@ -18,7 +18,7 @@
  *
  */
 
-package net.projectzombie.custom_interactions.serialize;
+package net.projectzombie.custominteractions.serialize;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Chunk;

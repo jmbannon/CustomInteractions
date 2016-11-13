@@ -18,7 +18,7 @@
  *
  */
 
-package net.projectzombie.custom_interactions.listeners;
+package net.projectzombie.custominteractions.listeners;
 
 import org.bukkit.Material;
 import org.bukkit.block.Block;
@@ -32,7 +32,7 @@ import com.sk89q.worldguard.bukkit.WGBukkit;
 import com.sk89q.worldguard.protection.ApplicableRegionSet;
 import com.sk89q.worldguard.protection.flags.DefaultFlag;
 import com.sk89q.worldguard.LocalPlayer;
-import net.projectzombie.block_buffer.buffer.Buffer;
+import net.projectzombie.blockbuffer.buffer.Buffer;
 import org.bukkit.ChatColor;
 import org.bukkit.Effect;
 import org.bukkit.GameMode;

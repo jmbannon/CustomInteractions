@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package net.projectzombie.custom_interactions.custom_items;
+package net.projectzombie.custominteractions.custom_items;
 
-import net.projectzombie.custom_interactions.listeners.Utilities;
+import net.projectzombie.custominteractions.listeners.Utilities;
 import org.bukkit.Effect;
 import org.bukkit.Material;
 import org.bukkit.block.Block;
